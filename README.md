@@ -16,7 +16,7 @@
 
 ---
 # PYTHON YAZIN
-## 1. Tren Sınıflandırma Modeli
+## 1. Train Sınıflandırma Modeli
 > İstem: Bir veri bilimcisi olarak hareket etmenizi ve benim için kod yazmanızı istiyorum. "[Veri kümesini tanımla]" veri kümem var. Lütfen "[hedef değişken]"i tahmin eden bir makine öğrenimi modeli oluşturun.
 
 ## 2. Otomatik Makine Öğrenimi
@@ -34,7 +34,7 @@
 ## 6. Regex'i yazın
 > Komut: Bir kodlayıcı olarak hareket etmenizi istiyorum. Lütfen bana Python'da `[regex'i açıkla]' şeklinde bir normal ifade yazın
 
-## 7. Tren Zaman Serisi
+## 7. Train Zaman Serisi
 > İstem: Bir veri bilimcisi olarak hareket etmenizi ve benim için kod yazmanızı istiyorum. Bir zaman serisi veri kümem var `[veri kümesini tanımla]`. Lütfen "[hedef değişken]"i tahmin eden bir makine öğrenimi modeli oluşturun. Lütfen tren olarak "[zaman aralığı]"nı ve doğrulama olarak "[zaman aralığı]"nı kullanın.
 
 ## 8. Adres Dengesizliği Verileri
@@ -46,10 +46,10 @@
 ## 10. Matplotlib ile Verileri Görselleştirin
 > Komut: Python'da kodlayıcı olarak hareket etmenizi istiyorum. "[name]" sütunlarına sahip bir "[name]" veri kümem var. "[Grafik gereksinimlerini açıklayın]"
 
-## 11. Görüntü Izgarası Matplotlib'ini Görselleştirin
+## 11. Image Grid Matplotlib'ini Görselleştirin
 > Komut: Bir kodlayıcı olarak hareket etmenizi istiyorum. Bir resim klasörüm var. `[Dosyaların dizinde nasıl organize edildiğini açıklayın]` `[Görüntülerin nasıl yazdırılmasını istediğinizi açıklayın]`
 
-## 12. Kireçli Modeli Açıklayın
+## 12. Lime Modeli Açıklayın
 > Komut: Bir veri bilimcisi gibi hareket etmenizi ve modelin sonuçlarını açıklamanızı istiyorum. Bir `[kütüphane adı]` modeli eğittim ve çıktıyı LIME kullanarak açıklamak istiyorum. Lütfen kodu yazın.
 
 ## 13. Shap ile Modeli Açıklayın
@@ -194,7 +194,7 @@ Katkıda bulunanlar: [DataLemur](www.datalemur.com)
 ## 54. R yaz
 > İstem: R kullanan bir veri bilimci gibi davranmanızı istiyorum. "[Gereksinimi buraya ekleyin]" şeklinde bir R betiği yazabilir misiniz?
 
-## 55. Kabuğu Yaz
+## 55. Terminali Yaz
 > Komut: Bir Linux terminal uzmanı olarak hareket etmenizi istiyorum. Lütfen kodu "[gereksinimleri açıklayın]" bölümüne yazın
 
 ## 56. VBA'yı yaz
