@@ -1,8 +1,8 @@
 <h1> 🚀 CHATGPT Veri Bilimi için İstemler! </h1>
 
-<IMG Width = "1000" Alt = "Veri Bilimi için Chatgpt" SRC = "https://github.com/travistangvh/0918355d14f61de0390cca0a8pb2ae221e21e21e21e21e21e21e21e21e21e21e21e21e21e
+<IMG Width = "1000" Alt = "Veri Bilimi için Chatgpt" SRC="https://github.com/travistangvh/0918355d14f61de0390cca0a8pb2ae221e21e21e21e21e21e21e21e21e21e21e21e21e21e"
 
-[Chatgpt] (https://chat.openai.com/chat) modeli, insan benzeri metin üretebilen [openai] (https://openai.com) tarafından eğitilmiş büyük bir dil modelidir. Ona bir ipucu sağlayarak, konuşmayı sürdüren veya verilen istemi genişleten yanıtlar oluşturabilir.
+[Chatgpt](https://chat.openai.com/chat) modeli, insan benzeri metin üretebilen [openai](https://openai.com) tarafından eğitilmiş büyük bir dil modelidir. Ona bir ipucu sağlayarak, konuşmayı sürdüren veya verilen istemi genişleten yanıtlar oluşturabilir.
 
 Bu depoda, ChatGPT ile veri bilimi amacıyla kullanılabilecek istemler bulacaksınız. Küratörlüğünü [Travis Tang](https://www.linkedin.com/in/travistang) üstleniyor.
 
@@ -15,15 +15,15 @@ Veri Bilimi için [Awesome ChatGPT deposundan](https://github.com/f/awesome-chat
 ---
 # İçindekiler:
 1. [Python yaz](#write-python)
-2. [Kodu açıkla](#kodu açıkla)
-3. [Kodu optimize et](#kodu optimize et)
+2. [Kodu açıkla](#kodu-açıkla)
+3. [Kodu optimize et](#kodu-optimize-et)
 4. [Kodu biçimlendir](#format-kodu)
 5. [Kodu bir dilden diğerine çevirin](#translate-code)
-6. [Kavramları açıklayın](#kavramları açıklayın)
-7. [Fikir önerin](#fikir önerin)
-8. [Sorun Giderme Sorunu] (#Sorun Giderme Problemi)
-9. [SQL yaz] (#write-sql)
-10. [Diğer Kodu Yaz](#diğer-kodu yaz)
+6. [Kavramları açıklayın](#kavramları-açıklayın)
+7. [Fikir önerin](#fikir-önerin)
+8. [Sorun Giderme Sorunu](#Sorun-Giderme-Problemi)
+9. [SQL yaz](#write-sql)
+10. [Diğer Kodu Yaz](#diğer-kodu-yaz)
 11. [Çeşitli](#çeşitli)
 
 ---
