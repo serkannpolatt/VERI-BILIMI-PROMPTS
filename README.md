@@ -2,17 +2,17 @@
 
 ---
 # İçindekiler:
-1. [Python yaz](PYTHON-YAZIN)
-2. [Kodu açıkla](#kodu-açıkla)
-3. [Kodu optimize et](#kodu-optimize-et)
+1. [Python yaz](#python-yazin)
+2. [Kodu açıkla](#kodu-açiklayin)
+3. [Kodu optimize et](#kodu-opti̇mi̇ze-et)
 4. [Kodu biçimlendir](#format-kodu)
-5. [Kodu bir dilden diğerine çevirin](#translate-code)
-6. [Kavramları açıklayın](#kavramları-açıklayın)
-7. [Fikir önerin](#fikir-önerin)
-8. [Sorun Giderme Sorunu](#Sorun-Giderme-Problemi)
-9. [SQL yaz](#write-sql)
-10. [Diğer Kodu Yaz](#diğer-kodu-yaz)
-11. [Çeşitli](#çeşitli)
+5. [Kodu bir dilden diğerine çevirin](#kodu-çevi̇r)
+6. [Kavramları açıklayın](#kavramlari-açiklayin)
+7. [Fikir önerin](#fi̇ki̇rler-öneri̇yoruz)
+8. [Sorun Giderme Sorunu](#problem-gi̇dermek)
+9. [SQL yaz](#sql-yazin)
+10. [Diğer Kodu Yaz](#di̇ğer-kodu-yazin)
+11. [Çeşitli](#çeşi̇tli̇)
 
 ---
 # PYTHON YAZIN
@@ -179,7 +179,7 @@ Kredi: [@svpino](https://twitter.com/svpino)
 Katkıda bulunanlar: [Mathias Halkjær Petersen](https://www.linkedin.com/in/mhalkjaer/)
 > İstem: Power BI modelleyicisi olarak hareket etmenizi istiyorum. Şu anki projemin detayları burada. '[Ayrıntıları girin]'. Tabloda herhangi bir sorun görüyor musunuz?
 
-#SQL YAZIN
+# SQL YAZIN
 ## 51. Değişen Ortalama Oluşturun
 > İstem: Bir veri bilimci gibi davranmanızı ve benim için SQL kodu yazmanızı istiyorum. İki sütunlu `[Sütun adlarını girin]' içeren bir tablom var. "[hangi değer]" için geçerli bir ortalama hesaplamak istiyorum. PostgreSQL 14 için çalışan SQL kodu nedir?
 
