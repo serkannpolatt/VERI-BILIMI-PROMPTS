@@ -65,7 +65,6 @@
 > İstem: Bir veri bilimcisi gibi hareket etmenizi istiyorum. Bir numpy dizisi oluşturmam gerekiyor. Bu numpy dizisi (x,y,z) şeklinde olmalıdır. Lütfen numpy dizisini rastgele değerlerle başlatın.
 
 ## 17. Birim Testini Yaz
-Kredi: [@svpino](https://twitter.com/svpino)
 > İstem: Bir yazılım geliştiricisi olarak hareket etmenizi istiyorum. Lütfen `[Fonksiyon Ekle]` fonksiyonu için birim testleri yazın. Test senaryoları şunlardır: `[Test senaryolarını ekleyin]`
 
 ## 18. Sütunu Doğrula
@@ -73,7 +72,6 @@ Kredi: [@svpino](https://twitter.com/svpino)
 
 # KODU AÇIKLAYIN
 ## 19. Python'u açıklayın
-Kredi: [@svpino](https://twitter.com/svpino)
 > İstem: Kod açıklayıcısı olarak hareket etmenizi istiyorum. Bu kod ne yapıyor? '[Kodu girin]'
 
 ## 20. SQL'i açıklayın
@@ -103,7 +101,6 @@ Kredi: [@svpino](https://twitter.com/svpino)
 
 # FORMAT KODU
 ## 28. Belgeleri Yazın
-Kredi: [@svpino](https://twitter.com/svpino)
 > İstem: Bir yazılım geliştiricisi olarak hareket etmenizi istiyorum. Lütfen aşağıda func1'e ilişkin belgeleri sağlayın. '[İşlev ekle]'
 
 ## 29. Okunabilirliği Artırın
@@ -117,11 +114,9 @@ Kredi: [@svpino](https://twitter.com/svpino)
 > İstem: Bir kodlayıcı olarak hareket etmenizi ve MySQL için SQL kodu yazmanızı istiyorum. MySQL için PostgreSQL'in DATE_TRUNC'unun eşdeğeri nedir?
 
 ## 32. Python'u R'ye çevirin
-Kredi: [@svpino](https://twitter.com/svpino)
 > İstem: Kod çevirmeni olarak hareket etmenizi istiyorum. Lütfen aşağıdaki kodu Python'dan R'ye dönüştürebilir misiniz? '[Kodu girin]'
 
 ## 33. R'yi Python'a çevirin
-Kredi: [@svpino](https://twitter.com/svpino)
 > İstem: Kod çevirmeni olarak hareket etmenizi istiyorum. Lütfen aşağıdaki kodu R'den Python'a dönüştürebilir misiniz? '[Kodu girin]'
 
 # KAVRAMLARI AÇIKLAYIN
@@ -176,7 +171,6 @@ Kredi: [@svpino](https://twitter.com/svpino)
 > İstem: SQL kod düzelticisi olarak hareket etmenizi istiyorum. Bu kod `[DBMS'niz, ör. PostgreSQL]`. Benim için düzeltebilir misin? `[SQL kodu burada]`
 
 ## 50. PowerBI Modelinde Sorun Giderme
-Katkıda bulunanlar: [Mathias Halkjær Petersen](https://www.linkedin.com/in/mhalkjaer/)
 > İstem: Power BI modelleyicisi olarak hareket etmenizi istiyorum. Şu anki projemin detayları burada. '[Ayrıntıları girin]'. Tabloda herhangi bir sorun görüyor musunuz?
 
 # SQL YAZIN
@@ -184,7 +178,6 @@ Katkıda bulunanlar: [Mathias Halkjær Petersen](https://www.linkedin.com/in/mha
 > İstem: Bir veri bilimci gibi davranmanızı ve benim için SQL kodu yazmanızı istiyorum. İki sütunlu `[Sütun adlarını girin]' içeren bir tablom var. "[hangi değer]" için geçerli bir ortalama hesaplamak istiyorum. PostgreSQL 14 için çalışan SQL kodu nedir?
 
 ## 52. Leetcode Sorusunu Çöz
-Katkıda bulunanlar: [DataLemur](www.datalemur.com)
 > İstem: Size sütunlarla birlikte tablolar verildiğini varsayalım... Aşağıdaki çıktıyı alın... `[Data Lemur'dan Soru)`
 
 # DİĞER KODU YAZIN
