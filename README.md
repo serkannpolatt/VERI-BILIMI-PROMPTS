@@ -1,17 +1,4 @@
 <h1> CHATGPT Veri Bilimi için Promptlar </h1>
-
-<IMGWidth = "1000" ,Alt="Veri Bilimi için Chatgpt" ,SRC="https://github.com/travistangvh/0918355d14f61de0390cca0a8pb2ae221e21e21e21e21e21e21e21e21e21e21e21e21e21e"
-
-[Chatgpt](https://chat.openai.com/chat) modeli, insan benzeri metin üretebilen [openai](https://openai.com) tarafından eğitilmiş büyük bir dil modelidir. Ona bir ipucu sağlayarak, konuşmayı sürdüren veya verilen istemi genişleten yanıtlar oluşturabilir.
-
-Bu depoda, ChatGPT ile veri bilimi amacıyla kullanılabilecek istemler bulacaksınız. Küratörlüğünü [Travis Tang](https://www.linkedin.com/in/travistang) üstleniyor.
-
-Başlamak için aşağıdaki komutları ChatGPT girişi olarak kullanmanız yeterlidir. Kullanım durumunuza özel sonuçlar elde etmek için "[kare parantez]" içindeki her şeyi kendinizinkiyle değiştirin.
-
-Ayrıca harmanlanmış istemleri (ChatGPT'nin yanıtının ekran görüntüleri dahil) [PDF burada](chatgpt-datascience-prompt.pdf) olarak görüntüleyebilirsiniz.
-
-Veri Bilimi için [Awesome ChatGPT deposundan](https://github.com/f/awesome-chatgpt-prompts) uyarlanmıştır.
-
 ---
 # İçindekiler:
 1. [Python yaz](#write-python)
