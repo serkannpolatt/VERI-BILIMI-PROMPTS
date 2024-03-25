@@ -1,4 +1,5 @@
 <h1> CHATGPT Veri Bilimi için Promptlar </h1>
+
 ---
 # İçindekiler:
 1. [Python yaz](#write-python)
