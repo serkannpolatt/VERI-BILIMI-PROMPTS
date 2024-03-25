@@ -2,7 +2,7 @@
 
 ---
 # İçindekiler:
-1. [Python yaz](#write-python)
+1. [Python yaz](PYTHON-YAZIN)
 2. [Kodu açıkla](#kodu-açıkla)
 3. [Kodu optimize et](#kodu-optimize-et)
 4. [Kodu biçimlendir](#format-kodu)
