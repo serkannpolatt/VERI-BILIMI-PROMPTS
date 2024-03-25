@@ -1,6 +1,6 @@
-<h1> 🚀 CHATGPT Veri Bilimi için İstemler! </h1>
+<h1> CHATGPT Veri Bilimi için Promptlar </h1>
 
-<IMG Width = "1000" Alt = "Veri Bilimi için Chatgpt" SRC="https://github.com/travistangvh/0918355d14f61de0390cca0a8pb2ae221e21e21e21e21e21e21e21e21e21e21e21e21e21e"
+<IMGWidth = "1000" ,Alt="Veri Bilimi için Chatgpt" ,SRC="https://github.com/travistangvh/0918355d14f61de0390cca0a8pb2ae221e21e21e21e21e21e21e21e21e21e21e21e21e21e"
 
 [Chatgpt](https://chat.openai.com/chat) modeli, insan benzeri metin üretebilen [openai](https://openai.com) tarafından eğitilmiş büyük bir dil modelidir. Ona bir ipucu sağlayarak, konuşmayı sürdüren veya verilen istemi genişleten yanıtlar oluşturabilir.
 
